@@ -1,11 +1,12 @@
-## Welcome to Zongyuan's Pages
+# Welcome to Zongyuan's Page
 
 E-mail: zongyuanlu0417@gmail.com
 
-## Education
+# Education
 
 Master of science in computer science, City University of Hong Kong, Hong Kong SAR  
-Bachlor of Engineering in Information Security, Souch China University of Technology, China
+
+Bachlor of engineering in Information Security, Souch China University of Technology, China
 
 
 # Header 1
