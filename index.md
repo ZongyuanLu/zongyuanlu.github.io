@@ -2,6 +2,8 @@
 
 E-mail: zongyuanlu0417@gmail.com
 
+[My GitHub homepage](https://github.com/ZongyuanLu?tab=repositories)
+
 # Education
 
 Master of science in computer science, City University of Hong Kong, Hong Kong SAR  
@@ -10,8 +12,6 @@ Bachlor of engineering in Information Security, Souch China University of Techno
 
 
 # Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
