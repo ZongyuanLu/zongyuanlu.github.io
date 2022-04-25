@@ -1,15 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Zongyuan's Pages
 
-You can use the [editor on GitHub](https://github.com/ZongyuanLu/zongyuanlu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+E-mail: zongyuanlu0417@gmail.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
 
-### Markdown
+Master of science in computer science, City University of Hong Kong, Hong Kong SAR  
+Bachlor of Engineering in Information Security, Souch China University of Technology, China
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
