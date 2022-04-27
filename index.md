@@ -7,7 +7,7 @@ E-mail: zongyuanlu0417@gmail.com
 # Education
 
 __Master of science in computer science, City University of Hong Kong, Hong Kong SAR, China__  Sept. 2021 - Nov. 2022  
-CS5487 Machine Learning: Theory and practice , CS6491 Topics in Optimization & its Applications in Computer Science, CS5483 Data Warehousing & Data Mining, etc.
+CS5487 Machine Learning: Theory and practice, CS6491 Topics in Optimization & its Applications in Computer Science, CS5483 Data Warehousing & Data Mining, etc.
 
 __Bachlor of engineering in Information Security, Souch China University of Technology, China__  Sept. 2017 - Jul. 2021  
 
