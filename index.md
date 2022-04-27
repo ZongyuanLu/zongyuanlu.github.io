@@ -18,7 +18,7 @@ __Machine learning, deep learning, convex optimization__, etc.
 
 [My Zhihu homepage](https://www.zhihu.com/people/simpive-96/posts) contains some articals related to algorithms.
 
-# Internship experiments
+# Internship experiences
 __Xiaomi Corporation__   Feb. 2022 - Apr. 2022. Beijing, China.  
 Software development engineer intern.  
 __Rastar Game__   Oct. 2020 - Dec. 2020. Guangzhou, China.  
