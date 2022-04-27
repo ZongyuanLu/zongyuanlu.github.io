@@ -21,7 +21,7 @@ __Machine learning, deep learning, convex optimization__, etc.
 # Internship experiments
 __Xiaomi Corporation__   Feb. 2022 - Apr. 2022. Beijing, China.  
 Software development engineer intern.  
-__Rastar Game__   Oct. 2020 - Dec. 2020. Guangzhou, China.
-Video game testing engineer intern.
-__Tencent Wechat Group (WXG)__   Jun. 2020 - Jul. 2020. Guangzhou, China
-Software development engineer intern.
+__Rastar Game__   Oct. 2020 - Dec. 2020. Guangzhou, China.  
+Video game testing engineer intern.  
+__Tencent Wechat Group (WXG)__   Jun. 2020 - Jul. 2020. Guangzhou, China  
+Software development engineer intern.  
