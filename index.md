@@ -6,18 +6,14 @@ E-mail: zongyuanlu0417@gmail.com
 
 # Education
 
-Master of science in computer science, City University of Hong Kong, Hong Kong SAR  
+__Master of science in computer science, City University of Hong Kong, Hong Kong SAR, China__  
 
-Bachlor of engineering in Information Security, Souch China University of Technology, China
+__Bachlor of engineering in Information Security, Souch China University of Technology, China__
 
 
-# Header 1
+# Interesting areas
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+Machine learning, deep learning, convex optimization, etc.
 
 **Bold** and _Italic_ and `Code` text
 
