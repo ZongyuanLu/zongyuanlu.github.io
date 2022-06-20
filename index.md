@@ -19,8 +19,8 @@ __Software Engineering, Machine learning__, etc.
 [My Zhihu homepage](https://www.zhihu.com/people/simpive-96/posts) contains some articals related to algorithms.
 
 # Internship experiences
-__Linklogis__   Jun. 2022 - now. Wuhan, China.
-SDET intern.
+__Linklogis__   Jun. 2022 - now. Wuhan, China.  
+SDET intern.  
 __Xiaomi Corporation__   Feb. 2022 - Apr. 2022. Beijing, China.  
 SDET intern.  
 __Rastar Game__   Oct. 2020 - Dec. 2020. Guangzhou, China.  
